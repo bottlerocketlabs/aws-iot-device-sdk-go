@@ -8,6 +8,7 @@ Implemented features:
 - Device Shadow
 - Jobs
 - Secure tunneling
+- Device Defender (device-side metrics)
 
 ## Migration guide
 
