@@ -7,6 +7,7 @@ Package awsiotdev implements AWS IoT presigned WebSockets dialer for [github.com
 Implemented features:
 - Device Shadow
 - Jobs
+- Fleet provisioning
 - Secure tunneling
 
 ## Migration guide
